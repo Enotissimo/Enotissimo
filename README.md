@@ -1,6 +1,22 @@
 ![Header](https://github.com/Enotissimo/Enotissimo/blob/main/assets/Cutie.png)
 
-## Hi, my name is Dmitriy, I'm beginner QA Engineer! 
+<html>
+ <head>
+  <meta charset="utf-8">
+  <style>
+   .text {
+    text-align:  center;
+   }
+  </style>
+ </head>
+ <body>
+  <div class="text">
+     <p><font size="6">Hi, my name is Dmitriy, I'm beginner QA Engineer!</font></p>
+  </div>
+ </body>
+</html>
+ 
+
 
 ## Tools
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman&logoColor=#FF8C00
@@ -14,4 +30,6 @@
 ![Git](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git&logoColor=#B22222)
 ![Devtools](https://img.shields.io/badge/devtools-090909?style=for-the-badge&logo=devtools&logoColor=#B22222)
 
-My contacts
+## My telegram
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#FF8C00
+)](https://t.me/enotfury)
