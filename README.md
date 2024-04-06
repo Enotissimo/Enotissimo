@@ -3,15 +3,10 @@
 <html>
  <head>
   <meta charset="utf-8">
-  <style>
-  .center {
-  text-align: center;
-}
-</style>
  </head>
  <body>
   <div class="text">
-     <p class="center"><font size="6">Hi, my name is Dmitriy, I'm beginner QA Engineer!</font></p>
+     <p align="center" style="color:#4B0082; font-size:30px">Hi, my name is Dmitriy, I'm beginner QA Engineer!</p>
   </div>
  </body>
 </html>
