@@ -1,15 +1,6 @@
 ![Header](https://github.com/Enotissimo/Enotissimo/blob/main/assets/Cutie.png)
 
-<html>
- <head>
-  <meta charset="utf-8">
- </head>
- <body>
-  <div class="text">
-     <p align="center" style="color:#4B0082; font-size:30px">Hi, my name is Dmitriy, I'm beginner QA Engineer!</p>
-  </div>
- </body>
-</html>
+<h1 align="center" style="color:#4B0082; font-size:30px">Hi, my name is Dmitriy, I'm beginner QA Engineer!</h1>
  
 
 
