@@ -4,14 +4,14 @@
  <head>
   <meta charset="utf-8">
   <style>
-   .text {
-    text-align:  center;
-   }
-  </style>
+  .center {
+  text-align: center;
+}
+</style>
  </head>
  <body>
   <div class="text">
-     <p><font size="6">Hi, my name is Dmitriy, I'm beginner QA Engineer!</font></p>
+     <p class="center"><font size="6">Hi, my name is Dmitriy, I'm beginner QA Engineer!</font></p>
   </div>
  </body>
 </html>
