@@ -13,8 +13,8 @@
 ![Github](https://img.shields.io/badge/GIThub-090909?style=for-the-badge&logo=github&logoColor=E6E6FA)
 ![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=Swagger&logoColor=00FF00
 )
-![Json](https://img.shields.io/badge/json-090909?style=for-the-badge&logo=json&logoColor=E6E6FA)
-![Git](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git&logoColor=B22222)
+![Json](https://img.shields.io/badge/json-090909?style=for-the-badge&logo=json&logoColor=FFDAB9)
+![Git](https://img.shields.io/badge/GITbash-090909?style=for-the-badge&logo=git&logoColor=C71585)
 ![Devtools](https://img.shields.io/badge/Devtools-090909?style=for-the-badge&logo=Google-chrome&logoColor=4169E1)
 
 ## My complited beginner test tasks (links)
