@@ -16,6 +16,8 @@
 ![Json](https://img.shields.io/badge/json-090909?style=for-the-badge&logo=json&logoColor=FFDAB9)
 ![Git](https://img.shields.io/badge/GITbash-090909?style=for-the-badge&logo=git&logoColor=C71585)
 ![Devtools](https://img.shields.io/badge/Devtools-090909?style=for-the-badge&logo=Google-chrome&logoColor=4169E1)
+![Rest](https://img.shields.io/badge/rest-090909?style=for-the-badge&logo=fastapi&logoColor=00FA9A)
+![Soap](https://img.shields.io/badge/soap-090909?style=for-the-badge&logo=fastapi&logoColor=EE82EE)
 
 ## My complited beginner test tasks (links)
 
