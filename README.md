@@ -42,5 +42,4 @@
 https://stepik.org/cert/2408857?lang=en)
 
 ## Мой телеграм:
-[![Telegram](https://github.com/Enotissimo/Enotissimo/blob/main/assets/teleava.jpg
-)](https://t.me/enotfury)
+[![Telegram](https://github.com/Enotissimo/Enotissimo/blob/main/assets/teleavamini.jpg)](https://t.me/enotfury)[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=00BFFF)](https://t.me/enotfury)
