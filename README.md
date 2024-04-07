@@ -23,7 +23,8 @@
 [![Java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/Enotissimo/Java.git)
 
 ## My certificates
-![Stepik](https://github.com/Enotissimo/Enotissimo/blob/main/assets/ministepik.png)
+[![Stepik](https://github.com/Enotissimo/Enotissimo/blob/main/assets/ministepik.png)](
+https://stepik.org/cert/2408857?lang=en)
 
 ## My telegram
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#FF8C00
