@@ -10,6 +10,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=00FFFF
 )
 ![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5&logoColor=DC143C)
+![Github](https://img.shields.io/badge/GIThub-090909?style=for-the-badge&logo=github&logoColor=E6E6FA)
 ![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=Swagger&logoColor=00FF00
 )
 ![Json](https://img.shields.io/badge/json-090909?style=for-the-badge&logo=json&logoColor=E6E6FA)
