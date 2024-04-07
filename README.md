@@ -31,6 +31,7 @@
 
 [![Bug-Reports](https://img.shields.io/badge/Bug-report-217346?style=for-the-badge&logo=microsoft-excel&logoColor=limegreen)](https://github.com/Enotissimo/Bug-Reports.git)
 [![Checklists](https://img.shields.io/badge/Check-lists-217346?style=for-the-badge&logo=microsoft-excel&logoColor=limegreen)](https://github.com/Enotissimo/Checklists.git)
+[![TestCases](https://img.shields.io/badge/Test-Cases-217346?style=for-the-badge&logo=microsoft-excel&logoColor=limegreen)](https://github.com/Enotissimo/TestCases.git)
 
 ## Учусь кодить:
 
