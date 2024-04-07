@@ -5,16 +5,16 @@
 
 
 ## Tools & Languages
-![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman&logoColor=#FF8C00
+![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman&logoColor=FF8C00
 )
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=#0000CD
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=4682B4
 )
-![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5&logoColor=#DC143C)
-![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=Swagger&logoColor=#DCDCDC
+![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5&logoColor=DC143C)
+![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=Swagger&logoColor=00FF00
 )
-![Json](https://img.shields.io/badge/json-090909?style=for-the-badge&logo=json&logoColor=#E0FFFF)
-![Git](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git&logoColor=#B22222)
-![Devtools](https://img.shields.io/badge/Devtools-090909?style=for-the-badge&logo=Google-chrome&logoColor=blue)
+![Json](https://img.shields.io/badge/json-090909?style=for-the-badge&logo=json&logoColor=E6E6FA)
+![Git](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git&logoColor=B22222)
+![Devtools](https://img.shields.io/badge/Devtools-090909?style=for-the-badge&logo=Google-chrome&logoColor=4169E1)
 
 ## My complited beginner test tasks (links)
 
