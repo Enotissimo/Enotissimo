@@ -7,7 +7,7 @@
 ## Tools & Languages
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman&logoColor=FF8C00
 )
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=4682B4
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=00FFFF
 )
 ![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5&logoColor=DC143C)
 ![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=Swagger&logoColor=00FF00
