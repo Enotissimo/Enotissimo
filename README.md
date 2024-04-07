@@ -16,7 +16,7 @@
 ![Git](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git&logoColor=#B22222)
 ![Devtools](https://img.shields.io/badge/devtools-090909?style=for-the-badge&logo=devtools&logoColor=#B22222)
 
-## My complited beginner test tasks links
+## My complited beginner test tasks (links)
 
 [![Bug-Reports](https://img.shields.io/badge/Bug-report-217346?style=for-the-badge&logo=microsoft-excel&logoColor=limegreen)](https://github.com/Enotissimo/Bug-Reports.git)
 
