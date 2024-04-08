@@ -27,7 +27,7 @@
 ![Rest](https://img.shields.io/badge/rest-090909?style=for-the-badge&logo=fastapi&logoColor=00FA9A)
 ![Soap](https://img.shields.io/badge/soap-090909?style=for-the-badge&logo=fastapi&logoColor=EE82EE)
 
-## Тестовая документация:
+## Примеры моей тестовой документации:
 
 [![Bug-Reports](https://img.shields.io/badge/Bug-report-217346?style=for-the-badge&logo=microsoft-excel&logoColor=limegreen)](https://github.com/Enotissimo/Bug-Reports.git)
 [![Checklists](https://img.shields.io/badge/Check-lists-217346?style=for-the-badge&logo=microsoft-excel&logoColor=limegreen)](https://github.com/Enotissimo/Checklists.git)
