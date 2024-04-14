@@ -37,6 +37,7 @@
 
 [![Java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/Enotissimo/Java.git)
 [![C++](https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=C%2b%2b&logoColor=4169E1)](https://github.com/Enotissimo/C-.git)
+[![C](https://img.shields.io/badge/C-323330?style=for-the-badge&logo=C%2b%2b&logoColor=778899)](https://github.com/Enotissimo/C.git)
 
 ## Сертификаты:
 [![Stepik](https://github.com/Enotissimo/Enotissimo/blob/main/assets/ministepik.png)](
