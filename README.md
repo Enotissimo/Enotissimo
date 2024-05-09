@@ -32,7 +32,7 @@
 [![Bug-Reports](https://img.shields.io/badge/Bug-reports-217346?style=for-the-badge&logo=microsoft-excel&logoColor=limegreen)](https://github.com/Enotissimo/Bug-Reports.git)
 [![Checklists](https://img.shields.io/badge/Check-lists-217346?style=for-the-badge&logo=microsoft-excel&logoColor=limegreen)](https://github.com/Enotissimo/Checklists.git)
 [![TestCases](https://img.shields.io/badge/Test-Cases-217346?style=for-the-badge&logo=microsoft-excel&logoColor=limegreen)](https://github.com/Enotissimo/TestCases.git)
-[![Restful-Booker](https://img.shields.io/badge/Postman-483D8B?style=for-the-badge&logo=Postman&logoColor=E6E6FA)](https://github.com/Enotissimo/Restful-Booker.git)
+[![Postman Collections](https://img.shields.io/badge/Postman-483D8B?style=for-the-badge&logo=Postman&logoColor=E6E6FA)](https://github.com/Enotissimo/Restful-Booker.git)
 
 ## Учусь кодить:
 
