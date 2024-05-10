@@ -38,9 +38,9 @@
 
 ## Учусь кодить:
 
-[![Java](https://img.shields.io/badge/Java-DC143C?style=for-the-badge&logo=javascript&logoColor=FFD700)](https://github.com/Enotissimo/Java.git)
-[![C](https://img.shields.io/badge/C-FFE4B5?style=for-the-badge&logo=C%2b%2b&logoColor=778899)](https://github.com/Enotissimo/C.git)
-[![C++](https://img.shields.io/badge/C++-F0E68C?style=for-the-badge&logo=C%2b%2b&logoColor=4169E1)](https://github.com/Enotissimo/C-.git)
+[![Java](https://img.shields.io/badge/Java-B0C4DE?style=for-the-badge&logo=javascript&logoColor=8B0000)](https://github.com/Enotissimo/Java.git)
+[![C](https://img.shields.io/badge/C-B0C4DE?style=for-the-badge&logo=C%2b%2b&logoColor=2F4F4F)](https://github.com/Enotissimo/C.git)
+[![C++](https://img.shields.io/badge/C++-B0C4DE?style=for-the-badge&logo=C%2b%2b&logoColor=000080)](https://github.com/Enotissimo/C-.git)
 
 ## Сертификаты:
 [![Stepik](https://github.com/Enotissimo/Enotissimo/blob/main/assets/ministepik.png)](
