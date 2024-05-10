@@ -1,6 +1,6 @@
 ![Header](https://github.com/Enotissimo/Enotissimo/blob/main/assets/Cutie.png)
 
-<h1 align="center" style="color:#4B0082; font-size:30px">Привет, меня зовут Дима! Я - начинающий тестировщик ПО.</h1>
+<h1 align="center" style="color:#4B0082; font-size:30px">Привет, меня зовут Дима! Я - тестировщик ПО.</h1>
  
 ## Обо мне:
 - Я работал юристом на протяжении 10 лет: в основном - прокуратура, суд.
