@@ -34,7 +34,7 @@
 [![TestCases](https://img.shields.io/badge/Test-Cases-217346?style=for-the-badge&logo=microsoft-excel&logoColor=limegreen)](https://github.com/Enotissimo/TestCases.git)
 
 ## Postman Collections:
-[![Restful-Booker](https://img.shields.io/badge/Restful--Booker-FF7F50?style=for-the-badge&logo=Postman&logoColor=FFFF00&labelColor=800000)](https://github.com/Enotissimo/Restful-Booker.git)
+[![Postman](https://img.shields.io/badge/Postman-FF7F50?style=for-the-badge&logo=Postman&logoColor=FFFF00&labelColor=800000)](https://github.com/Enotissimo/Postman-Collections.git)
 
 ## Учусь кодить:
 
