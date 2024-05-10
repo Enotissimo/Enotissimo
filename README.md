@@ -39,7 +39,7 @@
 
 ## Учусь кодить:
 
-[![Java](https://img.shields.io/badge/Java-B0C4DE?style=for-the-badge&logo=javascript&logoColor=8B0000)](https://github.com/Enotissimo/Java.git)
+[![Java](https://img.shields.io/badge/Java-B0C4DE?style=for-the-badge&logo=openjdk&logoColor=crimson)](https://github.com/Enotissimo/Java.git)
 [![C](https://img.shields.io/badge/C-B0C4DE?style=for-the-badge&logo=C%2b%2b&logoColor=2F4F4F)](https://github.com/Enotissimo/C.git)
 [![C++](https://img.shields.io/badge/C++-B0C4DE?style=for-the-badge&logo=C%2b%2b&logoColor=000080)](https://github.com/Enotissimo/C-.git)
 
