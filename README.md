@@ -39,7 +39,7 @@
 [![TestCases](https://img.shields.io/badge/Test-Cases-217346?style=for-the-badge&logo=microsoft-excel&logoColor=limegreen)](https://github.com/Enotissimo/TestCases.git)
 
 ## Postman Collections:
-[![Postman](https://img.shields.io/badge/Postman-008B8B?style=for-the-badge&logo=Postman&logoColor=E6E6FA&)](https://github.com/Enotissimo/Postman-Collections.git)
+[![Postman](https://img.shields.io/badge/Postman-008B8B?style=for-the-badge&logo=Postman&logoColor=FFF8DC&)](https://github.com/Enotissimo/Postman-Collections.git)
 
 ## Учусь кодить:
 
