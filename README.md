@@ -29,6 +29,8 @@
 ![Soap](https://img.shields.io/badge/soap-000000?style=for-the-badge&logo=fastapi&logoColor=EE82EE)
 ![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=Jira&logoColor=0052CC
 )
+![VStudio](https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=1E90FF
+)
 
 ## Примеры моей тестовой документации:
 
