@@ -27,6 +27,8 @@
 ![Devtools](https://img.shields.io/badge/Devtools-000000?style=for-the-badge&logo=Google-chrome&logoColor=4169E1)
 ![Rest](https://img.shields.io/badge/rest-000000?style=for-the-badge&logo=fastapi&logoColor=00FA9A)
 ![Soap](https://img.shields.io/badge/soap-000000?style=for-the-badge&logo=fastapi&logoColor=EE82EE)
+![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=Jira&logoColor=0052CC
+)
 
 ## Примеры моей тестовой документации:
 
