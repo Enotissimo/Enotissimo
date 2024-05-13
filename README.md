@@ -44,7 +44,8 @@
 [![C++](https://img.shields.io/badge/C++-B0C4DE?style=for-the-badge&logo=C%2b%2b&logoColor=000080)](https://github.com/Enotissimo/C-.git)
 
 ## Сертификаты:
-[![Stepik](https://github.com/Enotissimo/Enotissimo/blob/main/assets/ministepik.png)](
+[![Stepik Software testing](assets/stepikLogo.png)](
+https://stepik.org/cert/2408857?lang=en)[![Stepik Software testing](https://img.shields.io/badge/Software_testing-222222?style=for-the-badge)](
 https://stepik.org/cert/2408857?lang=en)
 
 ## Мой телеграм:
