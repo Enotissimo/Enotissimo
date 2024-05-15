@@ -31,7 +31,7 @@
 )
 ![VStudio](https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=1E90FF
 )
-![VStudio](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## Примеры моей тестовой документации:
 
@@ -40,7 +40,7 @@
 [![TestCases](https://img.shields.io/badge/Test-Cases-217346?style=for-the-badge&logo=microsoft-excel&logoColor=limegreen)](https://github.com/Enotissimo/TestCases.git)
 
 ## Postman Collections:
-[![Postman](https://img.shields.io/badge/Postman-008B8B?style=for-the-badge&logo=Postman&logoColor=E6E6FA&)](https://github.com/Enotissimo/Postman-Collections.git)
+[![Postman](https://img.shields.io/badge/Postman-008B8B?style=for-the-badge&logo=Postman&logoColor=98FB98&)](https://github.com/Enotissimo/Postman-Collections.git)
 
 ## Учусь кодить:
 
