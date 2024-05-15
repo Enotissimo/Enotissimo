@@ -39,7 +39,7 @@
 [![TestCases](https://img.shields.io/badge/Test-Cases-217346?style=for-the-badge&logo=microsoft-excel&logoColor=limegreen)](https://github.com/Enotissimo/TestCases.git)
 
 ## Postman Collections:
-[![Postman](https://img.shields.io/badge/Postman-008B8B?style=for-the-badge&logo=Postman&logoColor=FFF8DC&)](https://github.com/Enotissimo/Postman-Collections.git)
+[![Postman](https://img.shields.io/badge/Postman-008B8B?style=for-the-badge&logo=Postman&logoColor=E6E6FA&)](https://github.com/Enotissimo/Postman-Collections.git)
 
 ## Учусь кодить:
 
@@ -53,4 +53,4 @@ https://stepik.org/cert/2408857?lang=en)[![Stepik Software testing](https://img.
 https://stepik.org/cert/2408857?lang=en)
 
 ## Мой телеграм:
-[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00BFFF)](https://t.me/enotfury)[![Telegram](https://github.com/Enotissimo/Enotissimo/blob/main/assets/28pxteleavamini.jpg)](https://t.me/enotfury)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00BFFF)](https://t.me/enotfury)[![Telegram](assets/28pxteleavamini.jpg)](https://t.me/enotfury)
