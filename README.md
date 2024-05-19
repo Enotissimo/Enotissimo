@@ -31,7 +31,7 @@
 )
 ![VStudio](https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=1E90FF
 )
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=F0FFFF)
 
 ## Примеры моей тестовой документации:
 
