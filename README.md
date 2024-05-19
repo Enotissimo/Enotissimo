@@ -21,7 +21,7 @@
 ![Github](https://img.shields.io/badge/GIThub-000000?style=for-the-badge&logo=github&logoColor=E6E6FA)
 ![Swagger](https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=Swagger&logoColor=00FF00
 )
-![Json](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=FFDAB9)
+![Json](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=B0C4DE)
 ![Xml](https://img.shields.io/badge/xml-000000?style=for-the-badge&logo=internet-explorer&logoColor=00BFFF)
 ![Git](https://img.shields.io/badge/GITbash-000000?style=for-the-badge&logo=git&logoColor=C71585)
 ![Devtools](https://img.shields.io/badge/Devtools-000000?style=for-the-badge&logo=Google-chrome&logoColor=4169E1)
