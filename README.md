@@ -32,7 +32,8 @@
 ![VStudio](https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=1E90FF
 )
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=F0FFFF)
-
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Swagger&logoColor=yellow
+)
 ## Примеры моей тестовой документации:
 
 [![Bug-Reports](https://img.shields.io/badge/Bug-reports-217346?style=for-the-badge&logo=microsoft-excel&logoColor=limegreen)](https://github.com/Enotissimo/Bug-Reports.git)
