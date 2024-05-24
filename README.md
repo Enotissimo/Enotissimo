@@ -16,7 +16,7 @@
 )
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FFFF
 )
-![NetBeans IDE](https://img.shields.io/badge/NetBeans-000000.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=FFFF00)
+![NetBeans IDE](https://img.shields.io/badge/NetBeans-000000.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=FF00FF)
 ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=DC143C)
 ![Github](https://img.shields.io/badge/GIThub-000000?style=for-the-badge&logo=github&logoColor=E6E6FA)
 ![Swagger](https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=Swagger&logoColor=00FF00
