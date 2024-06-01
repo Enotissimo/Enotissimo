@@ -25,7 +25,7 @@
 ![Xml](https://img.shields.io/badge/xml-000000?style=for-the-badge&logo=internet-explorer&logoColor=00BFFF)
 ![Git](https://img.shields.io/badge/GITbash-000000?style=for-the-badge&logo=git&logoColor=FFA07A)
 ![Devtools](https://img.shields.io/badge/Devtools-000000?style=for-the-badge&logo=Google-chrome&logoColor=4169E1)
-![Rest](https://img.shields.io/badge/rest-000000?style=for-the-badge&logo=fastapi&logoColor=FFFF00)
+![Rest](https://img.shields.io/badge/rest-000000?style=for-the-badge&logo=fastapi&logoColor=00FF00)
 ![Soap UI](https://img.shields.io/badge/Soap_UI-000000?style=for-the-badge&logo=svelte&logoColor=EE82EE)
 ![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=Jira&logoColor=6A5ACD
 )
